@@ -4,7 +4,7 @@ It's me, hans
 
 ## npm
 ```
-npx ghost1inwires
+npx ghost1nwires
 ```
 
 ## GitHub Package Registry
